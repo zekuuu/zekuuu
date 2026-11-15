@@ -22,7 +22,7 @@
 
 ## <img src="https://api.iconify.design/lucide/user.svg?color=%2305cbf7" width="22" height="22" align="top" alt="" /> About me
 
-I'm a third-year **BS Computer Science** student at **Cavite State University**, co-founder of **WebX** (a web development team) and **Studio Nomads** (a photography collective), and an aspiring **Software Engineer**. I like building things that people actually use: tools that solve a real workflow problem, clean interfaces, and the backend that holds them together.
+I'm a third-year **BS Computer Science** student at Cavite State University and a full-stack developer who ships end to end. **Co-founder** of **WebX** and **Studio Nomads**. **Best Pivot Award** at the Base Batches Global Buildathon 2025 (Team TryCatch Us); finalist at the **ICP Hub Philippines iThink Hackathon**.
 
 - <img src="https://api.iconify.design/lucide/briefcase.svg?color=%2305cbf7" width="18" height="18" align="absmiddle" alt="" /> Co-founder of **WebX**, shipping websites and web apps for real clients
 - <img src="https://api.iconify.design/lucide/camera.svg?color=%2305cbf7" width="18" height="18" align="absmiddle" alt="" /> Co-founder of **Studio Nomads**, a photography collective, and photographer under **Shot by ZK**
